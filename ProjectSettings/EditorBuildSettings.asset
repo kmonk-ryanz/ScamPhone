@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ScamPhone.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3afab5f9e56255d4496d9cdff11d0139,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 238a90577c4899b4baffadec6d2b88a8,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 213a8a9945fe7ef43b5157dd6719c618,
+      type: 2}
