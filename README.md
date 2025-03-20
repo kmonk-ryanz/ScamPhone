@@ -18,9 +18,15 @@ AllSky Free - 10 Sky / Skybox Set by rpgwhitelock
 Phone Booth by KrazyFX
 ocean&lake shaders | URP by codeDog0
 
+Rock textures from HQ Rocks Pack by Next Level 3D
+Water material and shaders by GapperGames Studios
+Photograph of the moon by Ahkâm
+
+Scam call parody audio by Yusuf Zaimoglu
+
 Audio:
 
 Freesound.org
-
+Seagulls and waves sound effects by juskiddink on freesound.org
 
 
